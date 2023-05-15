@@ -381,7 +381,7 @@ h2 {
 .intro-bg,.intro-bg-back {
     width: 566px;
     height: 388px;
-    background: url('/public/img/intro2.png');
+    background: url('../../public/img/intro2.png');
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 20px;
     position: relative;
@@ -391,7 +391,7 @@ h2 {
     position: absolute;
     top: 32px;
     left: 26px;
-    background: url('/public/img/intro.png');
+    background: url('../../public/img/intro.png');
 
 }
 
